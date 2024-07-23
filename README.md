@@ -17,7 +17,7 @@ Données Utilisées :
 
 
 Démarche :
-- Exploration et Préparation des Données : Nous avons commencé par une exploration approfondie des données pour comprendre leur structure et identifier les caractéristiques pertinentes. La préparation des données a inclus le nettoyage, le traitement des valeurs manquantes et la normalisation des variables.
+- Exploration et Préparation des Données : Nous avons commencé par une exploration approfondie des données pour comprendre leur structure et identifier les caractéristiques pertinentes.
 
 Modélisation Prédictive : 
 - Nous avons utilisé des techniques de machine learning pour construire un modèle capable de prédire les loyers au m² sur les 30 prochaines années.
